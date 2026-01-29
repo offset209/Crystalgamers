@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Crystal Gamers</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 20px; }
+    h1 { color: #333; }
+    h2 { color: #666; }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li { background-color: #fff; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.1); }
+    a { text-decoration: none; color: #337ab7; }
+    a:hover { color: #23527c; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Crystal Gamers!</h1>
+  <p>Latest gaming updates and reviews and help to improve your gaming skills</p>
+  <h2>Featured Games</h2>
+  <ul>
+    <li>
+      <a href="https:                                                                                       
+      <iframe width="300" height="200" src="https://www.youtube.com/embed/8fJ8nE8fQ6w" frameborder="0" allowfullscreen></iframe>
+      <p>Tips: Use cover, aim for headshots, and customize controls!</p>
+    </li>
+    <li>
+      <a href="https:                                                                                       
+      <iframe width="300" height="200" src="https://www.youtube.com/embed/QkkoHAJ1Zt4" frameborder="0" allowfullscreen></iframe>
+      <p>Tips: Explore LA, complete missions, and save money!</p>
+    </li>
+    <li>
+      <a href="https:                                                                                                                     
+      <iframe width="300" height="200" src="https://www.youtube.com/embed/L1mN_uHM4Eo" frameborder="0" allowfullscreen></iframe>
+      <p>Tips: Use daylight sensors, build efficient farms, and explore caves safely!</p>
+    </li>
+  </ul>
+</body>
+</html>
